@@ -1,8 +1,8 @@
 ### Hello Chibi senpai Here - aka [Aotrix][website]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chibisenpai ra&show_icons=true&theme=radical center;)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chibisenpai&show_icons=true&theme=radical)
 
 <!--
-**chibisenpai/Chibisenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chibisenpai/Chibisenpai** is a ✨!_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
