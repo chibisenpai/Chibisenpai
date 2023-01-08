@@ -14,7 +14,10 @@
 </a></p>
 
 ## Now playing
-[![Spotify](https://novatorem-chibisenpai.vercel.app//api/spotify)](https://open.spotify.com/user/vmlv95jufpzbvgoxg6lba0bns)
+<p align="center">a href="https://open.spotify.com/user/vmlv95jufpzbvgoxg6lba0bns">
+<img align="center" src="https://novatorem-chibisenpai.vercel.app//api/spotify"/>
+</a></p>
+
 
 <!--
 **chibisenpai/Chibisenpai** is a ✨!_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
