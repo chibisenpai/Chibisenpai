@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Chibi senpai Here - aka Aotrix [website]
 
 <!--
 **chibisenpai/Chibisenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+[website] : https://chibisenpai.tech
