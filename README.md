@@ -9,7 +9,7 @@ I am a student who is learning how to code ☕
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👨‍💻 All of my projects are available at [https://chibisenpai.tech/](https://chibisenpai.tech/)
+- 👨‍💻 All of my projects are available at [Website](https://chibisenpai.tech/](https://chibisenpai.tech/)
 
 - 📝 I regularly write articles on [Twitter](https://twitter.com/chibisenpai_2)
 
