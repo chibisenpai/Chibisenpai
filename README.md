@@ -1,4 +1,5 @@
 ### Hello Chibi senpai Here - aka [Aotrix][website]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chibisenpai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chibisenpai/Chibisenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
