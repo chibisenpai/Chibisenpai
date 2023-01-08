@@ -11,7 +11,7 @@ I am a student who is learning how to code ☕
 
 - 👨‍💻 All of my projects are available at [https://chibisenpai.tech/](https://chibisenpai.tech/)
 
-- 📝 I regularly write articles on [https://twitter.com/home](https://twitter.com/home)
+- 📝 I regularly write articles on [Twitter](https://twitter.com/chibisenpai_2)
 
 - 💬 Ask me about **PC etc**
 
