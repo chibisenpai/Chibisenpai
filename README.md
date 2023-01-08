@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 
-[website] : https://chibisenpai.tech
+[website]: https://chibisenpai.tech
