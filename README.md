@@ -3,7 +3,7 @@
 I am a student who is learning how to code ☕
 
 ## 2023 Goals
-!<img height="22" width="22" src="https://cdn.simpleicons.org/javascript/yellow" /> Learn Java Script 
+!<img style=vertical-align:middle height="22" width="22" src="https://cdn.simpleicons.org/javascript/yellow" /> Learn Java Script 
 
 
 
