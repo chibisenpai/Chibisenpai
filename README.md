@@ -14,7 +14,7 @@
 </a></p>
 
 ## Now playing
-<p align="center">a href="https://open.spotify.com/user/vmlv95jufpzbvgoxg6lba0bns">
+<p align="center"><a href="https://open.spotify.com/user/vmlv95jufpzbvgoxg6lba0bns">
 <img align="center" src="https://novatorem-chibisenpai.vercel.app//api/spotify"/>
 </a></p>
 
