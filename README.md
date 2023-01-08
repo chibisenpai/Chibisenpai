@@ -3,7 +3,7 @@
 I am a student who is learning how to code ☕
 
 ## 2023 Goals
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/JavaScript.svg" /> Learn Java Script 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/javascript.svg" /> Learn Java Script 
 
 
 
