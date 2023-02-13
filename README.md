@@ -39,8 +39,10 @@ I am a student who is learning how to code ☕
 
 
 ## Stats
-<img align="center" src="<a href=""https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chibisenpai&show_icons=true&theme=nightowl"/> </a>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chibisenpai&show_icons=true&theme=nightowl"/> </a>
 </a></p>
+
 
 ## Now playing
 <p align="center"><a href="https://open.spotify.com/user/vmlv95jufpzbvgoxg6lba0bns">
