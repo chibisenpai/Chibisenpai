@@ -40,7 +40,7 @@ I am a student who is learning how to code ☕
 
 ## Stats
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-chibisenpai.vercel.app/?username=chibisenpai&show_icons=true&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats-chibisenpai.vercel.app/api?username=chibisenpai&show_icons=true&theme=nightowl"/>
 </a></p>
 
 ## Now playing
