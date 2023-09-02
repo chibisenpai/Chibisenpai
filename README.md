@@ -1,7 +1,7 @@
 # Hello there Chibi Senpai here (.❛ ᴗ ❛.)
 
 ## Introduction
-I am a student who is learning how to code ☕
+Hello my name is Mohamed Ayaan, I am enthusiastic student who joining the developers world 🌎. As I start this journey into the world of development, I am excited to grow and contribute to the landscape of technology 👍
 
 ## Details
 
